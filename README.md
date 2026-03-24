@@ -4,7 +4,7 @@ This is a simple application that displays a counter that usings ViewModel to st
 
 ## 2. Screenshot:
 
-<img width="400" height="750" alt="image" src="https://github.com/user-attachments/assets/b6abe5d4-f3af-4fef-be99-f900ca975ae1"/>
+<img width="400" height="750" alt="image" src="https://github.com/user-attachments/assets/8384c9b0-fdf1-40cc-8d40-effaa6d563d7" />
 
 ## 3. Device/Emulator/SDK version
 
