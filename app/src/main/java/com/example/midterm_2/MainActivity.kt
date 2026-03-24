@@ -44,7 +44,7 @@ class CounterViewModel : ViewModel() {
 
 @Composable
 fun CounterScreen(modifier: Modifier, viewModel: CounterViewModel = viewModel()) {
-    Column {
+    Column(modifier = modifier) {
         Text("Count: ${viewModel.count}")
         Button(onClick = { viewModel.incrementCount() }) {
             Text("Increment")
